@@ -34,9 +34,9 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - LEFT WIN
   - $$mdi:apple-keyboard-shift$$
+  - $$mdi:keyboard-tab$$
   - $$mdi:keyboard-space$$
   - NUM
-  - $$mdi:keyboard-tab$$
   - SYM
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - SCROLL
@@ -75,8 +75,8 @@ layers:
   - '&mkp MB2'
   - '&mkp MB3'
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:keyboard-tab$$
   - {t: ;, s: ':'}
