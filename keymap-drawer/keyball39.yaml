@@ -19,7 +19,7 @@ layers:
   - H
   - {t: J, h: '$$mdi:apple-keyboard-shift$$'}
   - {t: K, h: '$$mdi:apple-keyboard-control$$'}
-  - {t: L, h: ;}
+  - {t: L, h: '$$mdi:apple-keyboard-option$$'}
   - {t: ;, h: LEFT WIN, s: ':'}
   - Z
   - X
@@ -60,7 +60,7 @@ layers:
   - _
   - {t: \, s: '|'}
   - '|'
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: ;, s: ':'}
   - {t: '`', s: '~'}
   - '?'
   - )
