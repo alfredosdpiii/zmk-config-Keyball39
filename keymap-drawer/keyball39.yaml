@@ -105,7 +105,7 @@ layers:
   - $$mdi:bluetooth-off$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - EP TOG
   - _
   - +
   - {t: '$$mdi:transfer$$', type: trans}
