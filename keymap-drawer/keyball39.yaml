@@ -104,8 +104,8 @@ layers:
   - BT CLR ALL
   - $$mdi:bluetooth-off$$
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - EP TOG
+  - EP OFF
+  - EP ON
   - _
   - +
   - {t: '$$mdi:transfer$$', type: trans}
